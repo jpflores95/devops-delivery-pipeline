@@ -18,5 +18,6 @@ Math m = new Math();
 <br>
 <%="2 + 2 = " + m.add(2, 2)%>
 <br>
+    
 </body>
 </html>
